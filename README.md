@@ -60,7 +60,7 @@ A web application to practice and expand your chess opening repertoire using pre
 ## 🔧 Local Dev Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chess-opening-trainer.git
+git clone https://github.com/TylerJWhit/barnesopening.git
 cd barnesopening
 npm install
 npm run dev
