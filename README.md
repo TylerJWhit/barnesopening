@@ -61,6 +61,6 @@ A web application to practice and expand your chess opening repertoire using pre
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/chess-opening-trainer.git
-cd chess-opening-trainer
+cd barnesopening
 npm install
 npm run dev
